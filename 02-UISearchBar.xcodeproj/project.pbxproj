@@ -14,6 +14,7 @@
 		CC70D6681C12827A00414820 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CC70D6671C12827A00414820 /* Images.xcassets */; };
 		CC70D66B1C12827A00414820 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = CC70D6691C12827A00414820 /* LaunchScreen.xib */; };
 		CC70D6771C12827A00414820 /* _2_UISearchBarTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CC70D6761C12827A00414820 /* _2_UISearchBarTests.m */; };
+		CC70D6811C1283A300414820 /* sortednames.plist in Resources */ = {isa = PBXBuildFile; fileRef = CC70D6801C1283A300414820 /* sortednames.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		CC70D6701C12827A00414820 /* 02-UISearchBarTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "02-UISearchBarTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CC70D6751C12827A00414820 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CC70D6761C12827A00414820 /* _2_UISearchBarTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = _2_UISearchBarTests.m; sourceTree = "<group>"; };
+		CC70D6801C1283A300414820 /* sortednames.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = sortednames.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 		CC70D65A1C12827A00414820 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				CC70D6801C1283A300414820 /* sortednames.plist */,
 				CC70D65B1C12827A00414820 /* Info.plist */,
 				CC70D65C1C12827A00414820 /* main.m */,
 			);
@@ -199,6 +202,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CC70D6811C1283A300414820 /* sortednames.plist in Resources */,
 				CC70D6661C12827A00414820 /* Main.storyboard in Resources */,
 				CC70D66B1C12827A00414820 /* LaunchScreen.xib in Resources */,
 				CC70D6681C12827A00414820 /* Images.xcassets in Resources */,
