@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  FourthViewController.h
 //  01-时间选择器
 //
 //  Created by qingyun on 15/12/7.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface FourthViewController : UIViewController
 
 @end
-

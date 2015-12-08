@@ -9,11 +9,29 @@
 /* Begin PBXBuildFile section */
 		CC58DEA91C151C3B00111EC2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CC58DEA81C151C3B00111EC2 /* main.m */; };
 		CC58DEAC1C151C3B00111EC2 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = CC58DEAB1C151C3B00111EC2 /* AppDelegate.m */; };
-		CC58DEAF1C151C3B00111EC2 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CC58DEAE1C151C3B00111EC2 /* ViewController.m */; };
+		CC58DEAF1C151C3B00111EC2 /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CC58DEAE1C151C3B00111EC2 /* FirstViewController.m */; };
 		CC58DEB21C151C3B00111EC2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CC58DEB01C151C3B00111EC2 /* Main.storyboard */; };
 		CC58DEB41C151C3B00111EC2 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CC58DEB31C151C3B00111EC2 /* Images.xcassets */; };
 		CC58DEB71C151C3B00111EC2 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = CC58DEB51C151C3B00111EC2 /* LaunchScreen.xib */; };
 		CC58DEC31C151C3B00111EC2 /* _1______Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = CC58DEC21C151C3B00111EC2 /* _1______Tests.m */; };
+		CC58DEDD1C15252D00111EC2 /* apple.png in Resources */ = {isa = PBXBuildFile; fileRef = CC58DECD1C15252D00111EC2 /* apple.png */; };
+		CC58DEDE1C15252D00111EC2 /* bar.png in Resources */ = {isa = PBXBuildFile; fileRef = CC58DECE1C15252D00111EC2 /* bar.png */; };
+		CC58DEDF1C15252D00111EC2 /* cherry.png in Resources */ = {isa = PBXBuildFile; fileRef = CC58DECF1C15252D00111EC2 /* cherry.png */; };
+		CC58DEE01C15252D00111EC2 /* crown.png in Resources */ = {isa = PBXBuildFile; fileRef = CC58DED01C15252D00111EC2 /* crown.png */; };
+		CC58DEE11C15252D00111EC2 /* lemon.png in Resources */ = {isa = PBXBuildFile; fileRef = CC58DED11C15252D00111EC2 /* lemon.png */; };
+		CC58DEE21C15252D00111EC2 /* seven.png in Resources */ = {isa = PBXBuildFile; fileRef = CC58DED21C15252D00111EC2 /* seven.png */; };
+		CC58DEE31C15252D00111EC2 /* crunch.wav in Resources */ = {isa = PBXBuildFile; fileRef = CC58DED41C15252D00111EC2 /* crunch.wav */; };
+		CC58DEE41C15252D00111EC2 /* win.wav in Resources */ = {isa = PBXBuildFile; fileRef = CC58DED51C15252D00111EC2 /* win.wav */; };
+		CC58DEE51C15252D00111EC2 /* statedictionary.plist in Resources */ = {isa = PBXBuildFile; fileRef = CC58DED61C15252D00111EC2 /* statedictionary.plist */; };
+		CC58DEE61C15252D00111EC2 /* clockicon.png in Resources */ = {isa = PBXBuildFile; fileRef = CC58DED81C15252D00111EC2 /* clockicon.png */; };
+		CC58DEE71C15252D00111EC2 /* dependenticon.png in Resources */ = {isa = PBXBuildFile; fileRef = CC58DED91C15252D00111EC2 /* dependenticon.png */; };
+		CC58DEE81C15252D00111EC2 /* doubleicon.png in Resources */ = {isa = PBXBuildFile; fileRef = CC58DEDA1C15252D00111EC2 /* doubleicon.png */; };
+		CC58DEE91C15252D00111EC2 /* singleicon.png in Resources */ = {isa = PBXBuildFile; fileRef = CC58DEDB1C15252D00111EC2 /* singleicon.png */; };
+		CC58DEEA1C15252D00111EC2 /* toolicon.png in Resources */ = {isa = PBXBuildFile; fileRef = CC58DEDC1C15252D00111EC2 /* toolicon.png */; };
+		CC5F03C31C15B81F003A993C /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CC5F03C21C15B81F003A993C /* SecondViewController.m */; };
+		CC5F03C61C15B8CE003A993C /* ThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CC5F03C51C15B8CE003A993C /* ThirdViewController.m */; };
+		CC5F03C91C15B8DB003A993C /* FourthViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CC5F03C81C15B8DB003A993C /* FourthViewController.m */; };
+		CC5F03CC1C15B8EA003A993C /* FifthViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CC5F03CB1C15B8EA003A993C /* FifthViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -32,14 +50,36 @@
 		CC58DEA81C151C3B00111EC2 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		CC58DEAA1C151C3B00111EC2 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		CC58DEAB1C151C3B00111EC2 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		CC58DEAD1C151C3B00111EC2 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		CC58DEAE1C151C3B00111EC2 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		CC58DEAD1C151C3B00111EC2 /* FirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
+		CC58DEAE1C151C3B00111EC2 /* FirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
 		CC58DEB11C151C3B00111EC2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		CC58DEB31C151C3B00111EC2 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		CC58DEB61C151C3B00111EC2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		CC58DEBC1C151C3B00111EC2 /* 01-时间选择器Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "01-时间选择器Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CC58DEC11C151C3B00111EC2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CC58DEC21C151C3B00111EC2 /* _1______Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "_1______Tests.m"; sourceTree = "<group>"; };
+		CC58DECD1C15252D00111EC2 /* apple.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = apple.png; sourceTree = "<group>"; };
+		CC58DECE1C15252D00111EC2 /* bar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bar.png; sourceTree = "<group>"; };
+		CC58DECF1C15252D00111EC2 /* cherry.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cherry.png; sourceTree = "<group>"; };
+		CC58DED01C15252D00111EC2 /* crown.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = crown.png; sourceTree = "<group>"; };
+		CC58DED11C15252D00111EC2 /* lemon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lemon.png; sourceTree = "<group>"; };
+		CC58DED21C15252D00111EC2 /* seven.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = seven.png; sourceTree = "<group>"; };
+		CC58DED41C15252D00111EC2 /* crunch.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = crunch.wav; sourceTree = "<group>"; };
+		CC58DED51C15252D00111EC2 /* win.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = win.wav; sourceTree = "<group>"; };
+		CC58DED61C15252D00111EC2 /* statedictionary.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = statedictionary.plist; sourceTree = "<group>"; };
+		CC58DED81C15252D00111EC2 /* clockicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = clockicon.png; sourceTree = "<group>"; };
+		CC58DED91C15252D00111EC2 /* dependenticon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dependenticon.png; sourceTree = "<group>"; };
+		CC58DEDA1C15252D00111EC2 /* doubleicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = doubleicon.png; sourceTree = "<group>"; };
+		CC58DEDB1C15252D00111EC2 /* singleicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = singleicon.png; sourceTree = "<group>"; };
+		CC58DEDC1C15252D00111EC2 /* toolicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = toolicon.png; sourceTree = "<group>"; };
+		CC5F03C11C15B81F003A993C /* SecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
+		CC5F03C21C15B81F003A993C /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		CC5F03C41C15B8CE003A993C /* ThirdViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThirdViewController.h; sourceTree = "<group>"; };
+		CC5F03C51C15B8CE003A993C /* ThirdViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThirdViewController.m; sourceTree = "<group>"; };
+		CC5F03C71C15B8DB003A993C /* FourthViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FourthViewController.h; sourceTree = "<group>"; };
+		CC5F03C81C15B8DB003A993C /* FourthViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FourthViewController.m; sourceTree = "<group>"; };
+		CC5F03CA1C15B8EA003A993C /* FifthViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FifthViewController.h; sourceTree = "<group>"; };
+		CC5F03CB1C15B8EA003A993C /* FifthViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FifthViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,8 +123,16 @@
 			children = (
 				CC58DEAA1C151C3B00111EC2 /* AppDelegate.h */,
 				CC58DEAB1C151C3B00111EC2 /* AppDelegate.m */,
-				CC58DEAD1C151C3B00111EC2 /* ViewController.h */,
-				CC58DEAE1C151C3B00111EC2 /* ViewController.m */,
+				CC58DEAD1C151C3B00111EC2 /* FirstViewController.h */,
+				CC58DEAE1C151C3B00111EC2 /* FirstViewController.m */,
+				CC5F03C11C15B81F003A993C /* SecondViewController.h */,
+				CC5F03C21C15B81F003A993C /* SecondViewController.m */,
+				CC5F03C41C15B8CE003A993C /* ThirdViewController.h */,
+				CC5F03C51C15B8CE003A993C /* ThirdViewController.m */,
+				CC5F03C71C15B8DB003A993C /* FourthViewController.h */,
+				CC5F03C81C15B8DB003A993C /* FourthViewController.m */,
+				CC5F03CA1C15B8EA003A993C /* FifthViewController.h */,
+				CC5F03CB1C15B8EA003A993C /* FifthViewController.m */,
 				CC58DEB01C151C3B00111EC2 /* Main.storyboard */,
 				CC58DEB31C151C3B00111EC2 /* Images.xcassets */,
 				CC58DEB51C151C3B00111EC2 /* LaunchScreen.xib */,
@@ -96,6 +144,10 @@
 		CC58DEA61C151C3B00111EC2 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				CC58DECC1C15252D00111EC2 /* Custom Picker Images */,
+				CC58DED31C15252D00111EC2 /* Custom Picker Sounds */,
+				CC58DED61C15252D00111EC2 /* statedictionary.plist */,
+				CC58DED71C15252D00111EC2 /* Tab Bar Icons */,
 				CC58DEA71C151C3B00111EC2 /* Info.plist */,
 				CC58DEA81C151C3B00111EC2 /* main.m */,
 			);
@@ -117,6 +169,40 @@
 				CC58DEC11C151C3B00111EC2 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		CC58DECC1C15252D00111EC2 /* Custom Picker Images */ = {
+			isa = PBXGroup;
+			children = (
+				CC58DECD1C15252D00111EC2 /* apple.png */,
+				CC58DECE1C15252D00111EC2 /* bar.png */,
+				CC58DECF1C15252D00111EC2 /* cherry.png */,
+				CC58DED01C15252D00111EC2 /* crown.png */,
+				CC58DED11C15252D00111EC2 /* lemon.png */,
+				CC58DED21C15252D00111EC2 /* seven.png */,
+			);
+			path = "Custom Picker Images";
+			sourceTree = "<group>";
+		};
+		CC58DED31C15252D00111EC2 /* Custom Picker Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				CC58DED41C15252D00111EC2 /* crunch.wav */,
+				CC58DED51C15252D00111EC2 /* win.wav */,
+			);
+			path = "Custom Picker Sounds";
+			sourceTree = "<group>";
+		};
+		CC58DED71C15252D00111EC2 /* Tab Bar Icons */ = {
+			isa = PBXGroup;
+			children = (
+				CC58DED81C15252D00111EC2 /* clockicon.png */,
+				CC58DED91C15252D00111EC2 /* dependenticon.png */,
+				CC58DEDA1C15252D00111EC2 /* doubleicon.png */,
+				CC58DEDB1C15252D00111EC2 /* singleicon.png */,
+				CC58DEDC1C15252D00111EC2 /* toolicon.png */,
+			);
+			path = "Tab Bar Icons";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -199,9 +285,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CC58DEDF1C15252D00111EC2 /* cherry.png in Resources */,
+				CC58DEEA1C15252D00111EC2 /* toolicon.png in Resources */,
+				CC58DEE81C15252D00111EC2 /* doubleicon.png in Resources */,
+				CC58DEE21C15252D00111EC2 /* seven.png in Resources */,
 				CC58DEB21C151C3B00111EC2 /* Main.storyboard in Resources */,
+				CC58DEE61C15252D00111EC2 /* clockicon.png in Resources */,
+				CC58DEDE1C15252D00111EC2 /* bar.png in Resources */,
 				CC58DEB71C151C3B00111EC2 /* LaunchScreen.xib in Resources */,
+				CC58DEE31C15252D00111EC2 /* crunch.wav in Resources */,
+				CC58DEE51C15252D00111EC2 /* statedictionary.plist in Resources */,
+				CC58DEE41C15252D00111EC2 /* win.wav in Resources */,
+				CC58DEDD1C15252D00111EC2 /* apple.png in Resources */,
+				CC58DEE01C15252D00111EC2 /* crown.png in Resources */,
+				CC58DEE91C15252D00111EC2 /* singleicon.png in Resources */,
 				CC58DEB41C151C3B00111EC2 /* Images.xcassets in Resources */,
+				CC58DEE71C15252D00111EC2 /* dependenticon.png in Resources */,
+				CC58DEE11C15252D00111EC2 /* lemon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -219,8 +319,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CC58DEAF1C151C3B00111EC2 /* ViewController.m in Sources */,
+				CC5F03C91C15B8DB003A993C /* FourthViewController.m in Sources */,
+				CC5F03C31C15B81F003A993C /* SecondViewController.m in Sources */,
+				CC5F03C61C15B8CE003A993C /* ThirdViewController.m in Sources */,
+				CC58DEAF1C151C3B00111EC2 /* FirstViewController.m in Sources */,
 				CC58DEAC1C151C3B00111EC2 /* AppDelegate.m in Sources */,
+				CC5F03CC1C15B8EA003A993C /* FifthViewController.m in Sources */,
 				CC58DEA91C151C3B00111EC2 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -418,6 +522,7 @@
 				CC58DEC81C151C3B00111EC2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CC58DEC91C151C3B00111EC2 /* Build configuration list for PBXNativeTarget "01-时间选择器Tests" */ = {
 			isa = XCConfigurationList;
@@ -426,6 +531,7 @@
 				CC58DECB1C151C3B00111EC2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
